@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Active at https://github.com/application-research/estuary-clients
+
 # Rust API client for openapi
 
 This is the API for the Estuary application.
